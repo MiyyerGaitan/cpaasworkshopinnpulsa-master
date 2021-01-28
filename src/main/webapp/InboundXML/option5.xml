@@ -1,4 +1,4 @@
 <Response>
     <!-- Opcion 5, regresar al menu principal -->
-    <Redirect method="GET">http://tufileserver/InboundXML/main.xml</Redirect>
+    <Redirect method="https://hackathonavayainnpulsa.herokuapp.com/main.xml</Redirect>
 </Response>
